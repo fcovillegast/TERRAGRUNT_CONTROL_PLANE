@@ -11,9 +11,9 @@ inputs = merge(
   {
     vpc_id="vpc-05265640667ddf865"
     cidr_list = [
-      {cidr="172.32.0.0/24",zone="sa-east-1a"},
-      {cidr="172.32.1.0/24",zone="sa-east-1b"},
-      {cidr="172.32.2.0/24",zone="sa-east-1c"}
+      {cidr="172.31.48.0/24",zone="sa-east-1a"},
+      {cidr="172.31.49.0/24",zone="sa-east-1b"},
+      {cidr="172.31.50.0/24",zone="sa-east-1c"}
     ]
     name_prefix="ab"
 
