@@ -15,7 +15,7 @@ inputs = merge(
       "10.0.1.0/24",
       "10.0.2.0/24"
     ]
-    availability_zone ="sa-east-1
+    availability_zone ="sa-east-1"
     name_prefix="ab"
 
 })
